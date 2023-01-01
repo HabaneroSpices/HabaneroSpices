@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨🎄Happy Holidays!🎄✨</h1>
+  <h1>✨🎉2023!🎉✨</h1>
 </div>
 <div align="center">
   <a href="https://discord.com/users/140181301255733249">
