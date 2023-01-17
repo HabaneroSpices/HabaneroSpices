@@ -1,7 +1,7 @@
 <div align="center">
 
-![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Habanerospices&description=Hellooo&image=https://avatars.githubusercontent.com/u/45343924)
-
+<!--![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Habanerospices&description=Hellooo&image=https://avatars.githubusercontent.com/u/45343924)
+-->
 [![Discord Presence](https://lanyard.habanerospices.com/api/140181301255733249)](https://discord.com/users/140181301255733249)
 
 </div>
